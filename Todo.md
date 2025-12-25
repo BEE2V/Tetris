@@ -1,6 +1,6 @@
 - [X] 1 Setup the Game Loop
 - [X] 2 Creating the Grid
-- [ ] 3 Create the Blocks
+- [X] 3 Create the Blocks
 - [ ] 4 Move the Blocks
 - [ ] 5 Rotate the Blocks
 - [ ] 6 Checking for Collision

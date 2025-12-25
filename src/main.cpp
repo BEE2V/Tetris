@@ -1,5 +1,6 @@
 #include <raylib.h>
 #include "grid.h"
+#include "blocks.cpp"
 
 int main()
 {
@@ -10,6 +11,8 @@ int main()
 
     Grid grid = Grid();
     grid.Print();
+
+    TBlock block = TBlock();
 
     // Simluation Loop
     while (WindowShouldClose() == false)
@@ -22,6 +25,7 @@ int main()
         BeginDrawing();
         ClearBackground(darkBlue);
         grid.Draw();
+        block.Draw();
 
         EndDrawing();
     }
