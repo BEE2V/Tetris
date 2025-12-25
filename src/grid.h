@@ -12,6 +12,7 @@ public:
     void Initialize();
     void Draw();
     void Print();
+    bool IsCellOutside(int row, int column);
 
 private:
     int numRows;
