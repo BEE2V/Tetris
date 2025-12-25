@@ -1,4 +1,4 @@
-- [ ] 1 Setup the Game Loop
+- [X] 1 Setup the Game Loop
 - [ ] 2 Creating the Grid
 - [ ] 3 Create the Blocks
 - [ ] 4 Move the Blocks
