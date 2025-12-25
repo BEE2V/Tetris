@@ -9,6 +9,7 @@ public:
 
     Grid();
     void Initialize();
+    void Draw();
     void Print();
 
 private:

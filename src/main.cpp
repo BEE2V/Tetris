@@ -21,6 +21,8 @@ int main()
         // 3. Drawing
         BeginDrawing();
         ClearBackground(darkBlue);
+        grid.Draw();
+
         EndDrawing();
     }
 
