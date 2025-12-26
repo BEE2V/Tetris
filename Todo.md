@@ -8,5 +8,5 @@
 - [X] 8 Game Over
 - [X] 9 Create the User Interface
 - [X] 10 Add Score
-- [ ] 11 Add Next Block
+- [X] 11 Add Next Block
 - [ ] 12 Add Sounds
