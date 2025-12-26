@@ -30,7 +30,7 @@ int main()
         game.HandleInput();
 
         // 2. Updating State
-        if (EventTriggered(0.2))
+        if (EventTriggered(0.02))
         {
             game.MoveBlockDown();
         }
