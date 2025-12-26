@@ -9,4 +9,4 @@
 - [X] 9 Create the User Interface
 - [X] 10 Add Score
 - [X] 11 Add Next Block
-- [ ] 12 Add Sounds
+- [X] 12 Add Sounds

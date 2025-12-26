@@ -28,6 +28,8 @@ int main()
     // Simluation Loop
     while (WindowShouldClose() == false)
     {
+        UpdateMusicStream(game.music);
+
         // 1. Event Handling
         game.HandleInput();
 
