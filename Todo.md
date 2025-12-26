@@ -5,8 +5,8 @@
 - [X] 5 Rotate the Blocks
 - [X] 6 Checking for Collision
 - [X] 7 Check for completed rows
-- [ ] 8 Game Over
-- [ ] 9 Create the User Interface
+- [X] 8 Game Over
+- [X] 9 Create the User Interface
 - [ ] 10 Add Score
 - [ ] 11 Add Next Block
 - [ ] 12 Add Sounds
